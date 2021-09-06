@@ -1,2 +1,2 @@
 # Chess-Clock
-Programmable chess clock with LCD and membrane keyboard
+Programmable arduino chess clock with LCD and membrane keyboard.
