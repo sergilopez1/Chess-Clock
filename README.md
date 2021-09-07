@@ -24,6 +24,9 @@ Programmable arduino chess clock with LCD and membrane keypad
 - USB 2.0 cable type A/B --> 1 unit
 - 4x4 matrix membrane keypad --> 1 unit
 - pushbuttons (I used the micro limit switch pushbuttons, link at the end) --> 2 units
-- 10kΩ potenciometer --> 1 unit
+- 10kΩ potentiometer --> 1 unit
 - switch --> 1 unit
 - wire to connect everything
+
+## 3D parts
+
