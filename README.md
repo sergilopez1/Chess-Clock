@@ -1,5 +1,5 @@
 # Chess Clock
-Programmable arduino chess clock with LCD and membrane keyboard
+Programmable arduino chess clock with LCD and membrane keypad
 
 ## Features
 - Easy to use
@@ -8,7 +8,7 @@ Programmable arduino chess clock with LCD and membrane keyboard
 - Maximum time of 59:59 minutes
 
 ## How to use the chess clock
-- To pause/resume just click the "C" button on the membrane keyboard
+- To pause/resume just click the "C" button on the membrane keypad
 - To modify each player's time first you have to pause it ("C") and then click "A" or "B" to modify white or black's time respectively, 
   then enter the new time, for example, if you want to set the time to 12:30 minutes just click "1" then "2" and finally "3". When
   something finishes with "0" it isn't necessary to enter "0" but you can type it if you want.
@@ -19,5 +19,10 @@ Programmable arduino chess clock with LCD and membrane keyboard
  # Parts required
 
 ## Electronic parts
-- 16x2 LCD 
-- 
+- 16x2 LCD  --> 1 unit
+- Arduino UNO board --> 1 unit
+- USB 2.0 cable type A/B --> 1 unit
+- 4x4 matrix membrane keypad --> 1 unit
+- pushbuttons (I used the micro limit switch pushbuttons, link at the end) --> 2 units
+- 10kΩ potenciometer
+- switch
