@@ -26,7 +26,19 @@ Programmable arduino chess clock with LCD and membrane keypad
 - pushbuttons (I used the micro limit switch pushbuttons, link at the end) --> 2 units
 - 10kΩ potentiometer --> 1 unit
 - switch --> 1 unit
+- 4 x AA battery holder --> 1 unit
 - wire to connect everything
 
 ## 3D parts
 
+If you want to assembly all the parts into a compact chess clock, you can print the 3d parts. Read before the recommendations below to make sure
+the design fits correctly to your electronic components. 
+
+- You will need a specific pushbutton, otherwise it won't fit into the case, you have more information in the link below.
+```
+https://www.amazon.es/GTIWUNG-Interruptor-enrutador-Impresora-125V-250/dp/B08LD68FYQ/ref=sr_1_1_sspa?crid=3E748LCIT7XJA&dchild=1&keywords=pulsador+final+carrera&qid=1631032868&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQUxVMzlMTVhMSDJTJmVuY3J5cHRlZElkPUEwNzA2NjIxM1ZQTzk4Qk5CWTVLMSZlbmNyeXB0ZWRBZElkPUEwNTMwMjk1MVlZWDZTVko4VU0ySCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+```
+- Your battery holder must be like in the image.
+
+  ![unnamed](https://user-images.githubusercontent.com/46027448/132381881-5b495abc-3de3-4f5f-8fcc-58ae0cdd8d09.jpg)
+- You can also use a 20k potentiometer
