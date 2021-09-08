@@ -31,7 +31,7 @@ Programmable arduino chess clock with LCD and membrane keypad
 
 ## 3D parts
 
-If you want to assembly all the parts into a compact chess clock, you can print the 3d parts. Read before the recommendations below to make sure
+If you want to assembly all the parts into a compact chess clock, you can print my 3d parts. Read before the recommendations below to make sure
 the design fits correctly to your electronic components. 
 
 - You will need a specific pushbutton, otherwise it won't fit into the case, you have more information in the link below.
@@ -40,7 +40,23 @@ https://www.amazon.es/GTIWUNG-Interruptor-enrutador-Impresora-125V-250/dp/B08LD6
 ```
 - Your battery holder must be like in the image.
 
-  
+![IMG_9815](https://user-images.githubusercontent.com/46027448/132489578-8f637a92-c98f-4861-bc2c-1f6b10585c44.jpg)
 
 - The screws must be self-trapping, as the 3D printer isn't accurate enough to print the thread.
--  
+
+![IMG_9817](https://user-images.githubusercontent.com/46027448/132489835-6c594173-6d43-40c8-b02a-0e2fcbb32e87.jpg)
+
+-There is a battery cover which you can disassemble it as many times as you want, but inside, there are 2 slots where you have to put 2 metric 3 square nuts.
+
+
+![1](https://user-images.githubusercontent.com/46027448/132491277-471b6c14-eac2-403d-87c8-7946557ffba7.png)
+![2](https://user-images.githubusercontent.com/46027448/132491298-76463989-5719-4609-b2b3-4750a6a18241.png)
+![IMG_9816](https://user-images.githubusercontent.com/46027448/132491618-8c83377f-2fdf-44ef-bb96-061e6b49ad3e.jpg)
+
+-Depending on the arduino board and the LCD you use, all holes may not be concentric, so first I recommend you to check the 3D design to ensure that all holes 
+are as concentric as possible.
+
+-
+
+
+
