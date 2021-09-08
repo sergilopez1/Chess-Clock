@@ -59,10 +59,12 @@ are as concentric as possible.
 - In order to fix the lever which you press to change turn, you will need 2 washers and a 2 mm diameter metal bar (57,5mm length). The metal bar has to be
 inserted inside the lever and then put the lever inside the case with the washers, finally you will be able to fix the lever with 2 small covers, like is
 shown in the next images.
+
+![IMG_9819](https://user-images.githubusercontent.com/46027448/132500136-91360c68-3ed3-4884-8100-cc3b59bfb1e9.jpg)
 ![Captura de pantalla 2021-09-08 130120](https://user-images.githubusercontent.com/46027448/132498140-71d5d31a-adcc-413e-8313-0bfdce8661a7.png)
 ![Captura de pantalla 2021-09-08 130120](https://user-images.githubusercontent.com/46027448/132498368-46380743-a3be-42d2-9043-41b44f4880b7.png)
 ![Captura de pantalla 2021-09-08 130120](https://user-images.githubusercontent.com/46027448/132498833-6a35b1ec-cb66-49e8-a2bb-bdb6a61f0b7b.png)
 
-
-
+- The yellow plate is used to help the lever return to its initial position, as the pushbutton shouldn't pe pressed all time. It has to be flexible, 
+  but not too much, and the dimensions are 35x47,75x0,5 mm. 
 
