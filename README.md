@@ -40,6 +40,7 @@ https://www.amazon.es/GTIWUNG-Interruptor-enrutador-Impresora-125V-250/dp/B08LD6
 ```
 - Your battery holder must be like in the image.
 
-  ![unnamed](https://user-images.githubusercontent.com/46027448/132381881-5b495abc-3de3-4f5f-8fcc-58ae0cdd8d09.jpg)
+  
 
-- 
+- The screws must be self-trapping, as the 3D printer isn't accurate enough to print the thread.
+-  
