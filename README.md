@@ -68,3 +68,4 @@ shown in the next images.
 - The yellow plate is used to help the lever return to its initial position, as the pushbutton shouldn't pe pressed all time. It has to be flexible, 
   but not too much, and the dimensions are 35x47,75x0,5 mm. 
 
+- The green parts which hold the battery have to be glued into the grooves of the base.
